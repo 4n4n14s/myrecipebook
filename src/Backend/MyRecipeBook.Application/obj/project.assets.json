@@ -1,0 +1,140 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "MyRecipeBook.Communcation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MyRecipeBook.Communcation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyRecipeBook.Communcation.dll": {}
+        }
+      },
+      "MyRecipeBook.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MyRecipeBook.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyRecipeBook.Domain.dll": {}
+        }
+      },
+      "MyRecipeBook.Exceptions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MyRecipeBook.Exceptions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyRecipeBook.Exceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyRecipeBook.Communcation/1.0.0": {
+      "type": "project",
+      "path": "../../Shared/MyRecipeBook.Communcation/MyRecipeBook.Communcation.csproj",
+      "msbuildProject": "../../Shared/MyRecipeBook.Communcation/MyRecipeBook.Communcation.csproj"
+    },
+    "MyRecipeBook.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MyRecipeBook.Domain/MyRecipeBook.Domain.csproj",
+      "msbuildProject": "../MyRecipeBook.Domain/MyRecipeBook.Domain.csproj"
+    },
+    "MyRecipeBook.Exceptions/1.0.0": {
+      "type": "project",
+      "path": "../../Shared/MyRecipeBook.Exceptions/MyRecipeBook.Exceptions.csproj",
+      "msbuildProject": "../../Shared/MyRecipeBook.Exceptions/MyRecipeBook.Exceptions.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "MyRecipeBook.Communcation >= 1.0.0",
+      "MyRecipeBook.Domain >= 1.0.0",
+      "MyRecipeBook.Exceptions >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\anani\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\workspace\\MyRecipeBook\\src\\Backend\\MyRecipeBook.Application\\MyRecipeBook.Application.csproj",
+      "projectName": "MyRecipeBook.Application",
+      "projectPath": "D:\\workspace\\MyRecipeBook\\src\\Backend\\MyRecipeBook.Application\\MyRecipeBook.Application.csproj",
+      "packagesPath": "C:\\Users\\anani\\.nuget\\packages\\",
+      "outputPath": "D:\\workspace\\MyRecipeBook\\src\\Backend\\MyRecipeBook.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\anani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\workspace\\MyRecipeBook\\src\\Backend\\MyRecipeBook.Domain\\MyRecipeBook.Domain.csproj": {
+              "projectPath": "D:\\workspace\\MyRecipeBook\\src\\Backend\\MyRecipeBook.Domain\\MyRecipeBook.Domain.csproj"
+            },
+            "D:\\workspace\\MyRecipeBook\\src\\Shared\\MyRecipeBook.Communcation\\MyRecipeBook.Communcation.csproj": {
+              "projectPath": "D:\\workspace\\MyRecipeBook\\src\\Shared\\MyRecipeBook.Communcation\\MyRecipeBook.Communcation.csproj"
+            },
+            "D:\\workspace\\MyRecipeBook\\src\\Shared\\MyRecipeBook.Exceptions\\MyRecipeBook.Exceptions.csproj": {
+              "projectPath": "D:\\workspace\\MyRecipeBook\\src\\Shared\\MyRecipeBook.Exceptions\\MyRecipeBook.Exceptions.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

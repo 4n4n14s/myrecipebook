@@ -1,0 +1,11 @@
+D:\workspace\MyRecipeBook\src\Backend\MyRecipeBook.Domain\bin\Debug\net8.0\MyRecipeBook.Domain.deps.json
+D:\workspace\MyRecipeBook\src\Backend\MyRecipeBook.Domain\bin\Debug\net8.0\MyRecipeBook.Domain.dll
+D:\workspace\MyRecipeBook\src\Backend\MyRecipeBook.Domain\bin\Debug\net8.0\MyRecipeBook.Domain.pdb
+D:\workspace\MyRecipeBook\src\Backend\MyRecipeBook.Domain\obj\Debug\net8.0\MyRecipeBook.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\MyRecipeBook\src\Backend\MyRecipeBook.Domain\obj\Debug\net8.0\MyRecipeBook.Domain.AssemblyInfoInputs.cache
+D:\workspace\MyRecipeBook\src\Backend\MyRecipeBook.Domain\obj\Debug\net8.0\MyRecipeBook.Domain.AssemblyInfo.cs
+D:\workspace\MyRecipeBook\src\Backend\MyRecipeBook.Domain\obj\Debug\net8.0\MyRecipeBook.Domain.csproj.CoreCompileInputs.cache
+D:\workspace\MyRecipeBook\src\Backend\MyRecipeBook.Domain\obj\Debug\net8.0\MyRecipeBook.Domain.dll
+D:\workspace\MyRecipeBook\src\Backend\MyRecipeBook.Domain\obj\Debug\net8.0\refint\MyRecipeBook.Domain.dll
+D:\workspace\MyRecipeBook\src\Backend\MyRecipeBook.Domain\obj\Debug\net8.0\MyRecipeBook.Domain.pdb
+D:\workspace\MyRecipeBook\src\Backend\MyRecipeBook.Domain\obj\Debug\net8.0\ref\MyRecipeBook.Domain.dll
