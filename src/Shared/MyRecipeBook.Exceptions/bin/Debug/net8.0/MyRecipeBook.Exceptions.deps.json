@@ -9,6 +9,11 @@
       "MyRecipeBook.Exceptions/1.0.0": {
         "runtime": {
           "MyRecipeBook.Exceptions.dll": {}
+        },
+        "resources": {
+          "pt-BR/MyRecipeBook.Exceptions.resources.dll": {
+            "locale": "pt-BR"
+          }
         }
       }
     }

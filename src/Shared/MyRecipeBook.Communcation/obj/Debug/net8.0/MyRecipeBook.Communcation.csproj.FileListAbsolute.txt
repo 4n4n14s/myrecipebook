@@ -9,3 +9,15 @@ D:\workspace\MyRecipeBook\src\Shared\MyRecipeBook.Communcation\obj\Debug\net8.0\
 D:\workspace\MyRecipeBook\src\Shared\MyRecipeBook.Communcation\obj\Debug\net8.0\refint\MyRecipeBook.Communcation.dll
 D:\workspace\MyRecipeBook\src\Shared\MyRecipeBook.Communcation\obj\Debug\net8.0\MyRecipeBook.Communcation.pdb
 D:\workspace\MyRecipeBook\src\Shared\MyRecipeBook.Communcation\obj\Debug\net8.0\ref\MyRecipeBook.Communcation.dll
+C:\Users\anani\OneDrive\Documentos\GitHub\myrecipebook\src\Shared\MyRecipeBook.Communcation\bin\Debug\net8.0\MyRecipeBook.Communcation.deps.json
+C:\Users\anani\OneDrive\Documentos\GitHub\myrecipebook\src\Shared\MyRecipeBook.Communcation\bin\Debug\net8.0\MyRecipeBook.Communcation.dll
+C:\Users\anani\OneDrive\Documentos\GitHub\myrecipebook\src\Shared\MyRecipeBook.Communcation\bin\Debug\net8.0\MyRecipeBook.Communcation.pdb
+C:\Users\anani\OneDrive\Documentos\GitHub\myrecipebook\src\Shared\MyRecipeBook.Communcation\obj\Debug\net8.0\MyRecipeBook.Communcation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anani\OneDrive\Documentos\GitHub\myrecipebook\src\Shared\MyRecipeBook.Communcation\obj\Debug\net8.0\MyRecipeBook.Communcation.AssemblyInfoInputs.cache
+C:\Users\anani\OneDrive\Documentos\GitHub\myrecipebook\src\Shared\MyRecipeBook.Communcation\obj\Debug\net8.0\MyRecipeBook.Communcation.AssemblyInfo.cs
+C:\Users\anani\OneDrive\Documentos\GitHub\myrecipebook\src\Shared\MyRecipeBook.Communcation\obj\Debug\net8.0\MyRecipeBook.Communcation.csproj.CoreCompileInputs.cache
+C:\Users\anani\OneDrive\Documentos\GitHub\myrecipebook\src\Shared\MyRecipeBook.Communcation\obj\Debug\net8.0\MyRecipeBook.Communcation.sourcelink.json
+C:\Users\anani\OneDrive\Documentos\GitHub\myrecipebook\src\Shared\MyRecipeBook.Communcation\obj\Debug\net8.0\MyRecipeBook.Communcation.dll
+C:\Users\anani\OneDrive\Documentos\GitHub\myrecipebook\src\Shared\MyRecipeBook.Communcation\obj\Debug\net8.0\refint\MyRecipeBook.Communcation.dll
+C:\Users\anani\OneDrive\Documentos\GitHub\myrecipebook\src\Shared\MyRecipeBook.Communcation\obj\Debug\net8.0\MyRecipeBook.Communcation.pdb
+C:\Users\anani\OneDrive\Documentos\GitHub\myrecipebook\src\Shared\MyRecipeBook.Communcation\obj\Debug\net8.0\ref\MyRecipeBook.Communcation.dll

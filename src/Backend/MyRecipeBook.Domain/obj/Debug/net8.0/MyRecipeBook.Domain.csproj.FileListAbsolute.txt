@@ -9,3 +9,15 @@ D:\workspace\MyRecipeBook\src\Backend\MyRecipeBook.Domain\obj\Debug\net8.0\MyRec
 D:\workspace\MyRecipeBook\src\Backend\MyRecipeBook.Domain\obj\Debug\net8.0\refint\MyRecipeBook.Domain.dll
 D:\workspace\MyRecipeBook\src\Backend\MyRecipeBook.Domain\obj\Debug\net8.0\MyRecipeBook.Domain.pdb
 D:\workspace\MyRecipeBook\src\Backend\MyRecipeBook.Domain\obj\Debug\net8.0\ref\MyRecipeBook.Domain.dll
+C:\Users\anani\OneDrive\Documentos\GitHub\myrecipebook\src\Backend\MyRecipeBook.Domain\bin\Debug\net8.0\MyRecipeBook.Domain.deps.json
+C:\Users\anani\OneDrive\Documentos\GitHub\myrecipebook\src\Backend\MyRecipeBook.Domain\bin\Debug\net8.0\MyRecipeBook.Domain.dll
+C:\Users\anani\OneDrive\Documentos\GitHub\myrecipebook\src\Backend\MyRecipeBook.Domain\bin\Debug\net8.0\MyRecipeBook.Domain.pdb
+C:\Users\anani\OneDrive\Documentos\GitHub\myrecipebook\src\Backend\MyRecipeBook.Domain\obj\Debug\net8.0\MyRecipeBook.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anani\OneDrive\Documentos\GitHub\myrecipebook\src\Backend\MyRecipeBook.Domain\obj\Debug\net8.0\MyRecipeBook.Domain.AssemblyInfoInputs.cache
+C:\Users\anani\OneDrive\Documentos\GitHub\myrecipebook\src\Backend\MyRecipeBook.Domain\obj\Debug\net8.0\MyRecipeBook.Domain.AssemblyInfo.cs
+C:\Users\anani\OneDrive\Documentos\GitHub\myrecipebook\src\Backend\MyRecipeBook.Domain\obj\Debug\net8.0\MyRecipeBook.Domain.csproj.CoreCompileInputs.cache
+C:\Users\anani\OneDrive\Documentos\GitHub\myrecipebook\src\Backend\MyRecipeBook.Domain\obj\Debug\net8.0\MyRecipeBook.Domain.sourcelink.json
+C:\Users\anani\OneDrive\Documentos\GitHub\myrecipebook\src\Backend\MyRecipeBook.Domain\obj\Debug\net8.0\MyRecipeBook.Domain.dll
+C:\Users\anani\OneDrive\Documentos\GitHub\myrecipebook\src\Backend\MyRecipeBook.Domain\obj\Debug\net8.0\refint\MyRecipeBook.Domain.dll
+C:\Users\anani\OneDrive\Documentos\GitHub\myrecipebook\src\Backend\MyRecipeBook.Domain\obj\Debug\net8.0\MyRecipeBook.Domain.pdb
+C:\Users\anani\OneDrive\Documentos\GitHub\myrecipebook\src\Backend\MyRecipeBook.Domain\obj\Debug\net8.0\ref\MyRecipeBook.Domain.dll

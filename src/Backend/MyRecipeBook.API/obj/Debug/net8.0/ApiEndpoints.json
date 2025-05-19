@@ -1,7 +1,7 @@
 [
   {
     "ContainingType": "MyRecipeBook.API.Controllers.UserController",
-    "Method": "UserRegsiter",
+    "Method": "UserRegister",
     "RelativePath": "User",
     "HttpMethod": "POST",
     "IsController": true,

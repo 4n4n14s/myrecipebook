@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\workspace\\MyRecipeBook\\src\\Shared\\MyRecipeBook.Exceptions\\MyRecipeBook.Exceptions.csproj": {}
+    "C:\\Users\\anani\\OneDrive\\Documentos\\GitHub\\myrecipebook\\src\\Shared\\MyRecipeBook.Exceptions\\MyRecipeBook.Exceptions.csproj": {}
   },
   "projects": {
-    "D:\\workspace\\MyRecipeBook\\src\\Shared\\MyRecipeBook.Exceptions\\MyRecipeBook.Exceptions.csproj": {
+    "C:\\Users\\anani\\OneDrive\\Documentos\\GitHub\\myrecipebook\\src\\Shared\\MyRecipeBook.Exceptions\\MyRecipeBook.Exceptions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\workspace\\MyRecipeBook\\src\\Shared\\MyRecipeBook.Exceptions\\MyRecipeBook.Exceptions.csproj",
+        "projectUniqueName": "C:\\Users\\anani\\OneDrive\\Documentos\\GitHub\\myrecipebook\\src\\Shared\\MyRecipeBook.Exceptions\\MyRecipeBook.Exceptions.csproj",
         "projectName": "MyRecipeBook.Exceptions",
-        "projectPath": "D:\\workspace\\MyRecipeBook\\src\\Shared\\MyRecipeBook.Exceptions\\MyRecipeBook.Exceptions.csproj",
+        "projectPath": "C:\\Users\\anani\\OneDrive\\Documentos\\GitHub\\myrecipebook\\src\\Shared\\MyRecipeBook.Exceptions\\MyRecipeBook.Exceptions.csproj",
         "packagesPath": "C:\\Users\\anani\\.nuget\\packages\\",
-        "outputPath": "D:\\workspace\\MyRecipeBook\\src\\Shared\\MyRecipeBook.Exceptions\\obj\\",
+        "outputPath": "C:\\Users\\anani\\OneDrive\\Documentos\\GitHub\\myrecipebook\\src\\Shared\\MyRecipeBook.Exceptions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

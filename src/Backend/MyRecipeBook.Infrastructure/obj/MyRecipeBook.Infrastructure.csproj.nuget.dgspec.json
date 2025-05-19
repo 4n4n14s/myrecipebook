@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\workspace\\MyRecipeBook\\src\\Backend\\MyRecipeBook.Infrastructure\\MyRecipeBook.Infrastructure.csproj": {}
+    "C:\\Users\\anani\\OneDrive\\Documentos\\GitHub\\myrecipebook\\src\\Backend\\MyRecipeBook.Infrastructure\\MyRecipeBook.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\workspace\\MyRecipeBook\\src\\Backend\\MyRecipeBook.Domain\\MyRecipeBook.Domain.csproj": {
+    "C:\\Users\\anani\\OneDrive\\Documentos\\GitHub\\myrecipebook\\src\\Backend\\MyRecipeBook.Domain\\MyRecipeBook.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\workspace\\MyRecipeBook\\src\\Backend\\MyRecipeBook.Domain\\MyRecipeBook.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\anani\\OneDrive\\Documentos\\GitHub\\myrecipebook\\src\\Backend\\MyRecipeBook.Domain\\MyRecipeBook.Domain.csproj",
         "projectName": "MyRecipeBook.Domain",
-        "projectPath": "D:\\workspace\\MyRecipeBook\\src\\Backend\\MyRecipeBook.Domain\\MyRecipeBook.Domain.csproj",
+        "projectPath": "C:\\Users\\anani\\OneDrive\\Documentos\\GitHub\\myrecipebook\\src\\Backend\\MyRecipeBook.Domain\\MyRecipeBook.Domain.csproj",
         "packagesPath": "C:\\Users\\anani\\.nuget\\packages\\",
-        "outputPath": "D:\\workspace\\MyRecipeBook\\src\\Backend\\MyRecipeBook.Domain\\obj\\",
+        "outputPath": "C:\\Users\\anani\\OneDrive\\Documentos\\GitHub\\myrecipebook\\src\\Backend\\MyRecipeBook.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\workspace\\MyRecipeBook\\src\\Backend\\MyRecipeBook.Infrastructure\\MyRecipeBook.Infrastructure.csproj": {
+    "C:\\Users\\anani\\OneDrive\\Documentos\\GitHub\\myrecipebook\\src\\Backend\\MyRecipeBook.Infrastructure\\MyRecipeBook.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\workspace\\MyRecipeBook\\src\\Backend\\MyRecipeBook.Infrastructure\\MyRecipeBook.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\anani\\OneDrive\\Documentos\\GitHub\\myrecipebook\\src\\Backend\\MyRecipeBook.Infrastructure\\MyRecipeBook.Infrastructure.csproj",
         "projectName": "MyRecipeBook.Infrastructure",
-        "projectPath": "D:\\workspace\\MyRecipeBook\\src\\Backend\\MyRecipeBook.Infrastructure\\MyRecipeBook.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\anani\\OneDrive\\Documentos\\GitHub\\myrecipebook\\src\\Backend\\MyRecipeBook.Infrastructure\\MyRecipeBook.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\anani\\.nuget\\packages\\",
-        "outputPath": "D:\\workspace\\MyRecipeBook\\src\\Backend\\MyRecipeBook.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\anani\\OneDrive\\Documentos\\GitHub\\myrecipebook\\src\\Backend\\MyRecipeBook.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\workspace\\MyRecipeBook\\src\\Backend\\MyRecipeBook.Domain\\MyRecipeBook.Domain.csproj": {
-                "projectPath": "D:\\workspace\\MyRecipeBook\\src\\Backend\\MyRecipeBook.Domain\\MyRecipeBook.Domain.csproj"
+              "C:\\Users\\anani\\OneDrive\\Documentos\\GitHub\\myrecipebook\\src\\Backend\\MyRecipeBook.Domain\\MyRecipeBook.Domain.csproj": {
+                "projectPath": "C:\\Users\\anani\\OneDrive\\Documentos\\GitHub\\myrecipebook\\src\\Backend\\MyRecipeBook.Domain\\MyRecipeBook.Domain.csproj"
               }
             }
           }
@@ -118,6 +118,20 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[9.0.0-preview.3.efcore.9.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
